@@ -42,6 +42,7 @@ Menu:
    Enter your choice (1-3): 1
 
 Enter a temperature to convert to fahrenheit: 25.5
+
 25.5°C is 77.9°F
 
 ## Future Enhancements
