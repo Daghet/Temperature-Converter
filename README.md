@@ -29,7 +29,7 @@ A console-based **Temperature Converter** built in Python as part of my software
 3. Navigate to the project folder and run: `python temperature_converter.py`.
 4. Follow the menu prompts to convert temperatures!
 
-## Example Gameplay
+## Example
 
 Welcome to the Temperature Converter!
 Convert between Celsius and Fahrenheit easily.
